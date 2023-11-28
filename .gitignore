@@ -1,3 +1,5 @@
-figs/
+figs/*
 
+# add back the image in the figs folder
+!figs/.gitkeep
 !figs/SimFinal.svg
