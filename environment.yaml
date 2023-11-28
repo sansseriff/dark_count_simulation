@@ -1,0 +1,10 @@
+name: darkcount
+channels:
+  - conda-forge
+dependencies:
+dependencies:
+  - matplotlib
+  - numpy
+  - scipy
+  - pip:
+    - snsphd
